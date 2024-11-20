@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.col-md-7 {
+    margin-top: 50px;
+}
+
+.bg-white {
+    background-color: #ffffff;
+}
+
+.btn-custom:hover {
+    background-color: #0056b3 !important;
+    border-color: #0056b3 !important;
+}
+
+.btn-custom {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 45px;
+    line-height: 1.2;
+    font-size: 16px;
+    font-weight: 10;
+}
+
